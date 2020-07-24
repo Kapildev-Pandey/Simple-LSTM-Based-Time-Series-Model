@@ -1,4 +1,4 @@
-# SimpleLSTMBasedTimeSeriesModel
+# Simple-LSTM-Based-Time-Series-Model
 This is simple LSTM based time series model. 
 
 
